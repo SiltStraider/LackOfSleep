@@ -17,6 +17,12 @@ public class VictoryChecker : MonoBehaviour
 
     public void Win()
     {
+        // Победа невозможна, если рассудок закончился
+        if (playerSanity.CurrentSanity <= 0f)
+        {
+            return;
+        }
+        
         if (isWinHandled) return;
         isWinHandled = true;
         

@@ -1080,15 +1080,15 @@ MonoBehaviour:
   - Enemy: {fileID: 4321488725329892496}
     MovementPoints: {fileID: 1090786378}
     InteractObject: {fileID: 1193304559}
-    DelayBeforeStart: 444
+    DelayBeforeStart: 5
   - Enemy: {fileID: 1858466448794943247}
     MovementPoints: {fileID: 1104163076}
     InteractObject: {fileID: 1847900600}
-    DelayBeforeStart: 444
+    DelayBeforeStart: 10
   - Enemy: {fileID: 4115072556239761831}
     MovementPoints: {fileID: 1342543642}
     InteractObject: {fileID: 1193304559}
-    DelayBeforeStart: 5
+    DelayBeforeStart: 15
 --- !u!4 &166434328
 Transform:
   m_ObjectHideFlags: 0
@@ -4514,7 +4514,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   baseLossRate: 0.001
-  extraLossPerActive: 0.002
+  extraLossPerActive: 0.0018
   maxSanity: 1
   screamer: {fileID: 2088170515}
   sanityBar: {fileID: 217673242}
@@ -14612,7 +14612,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eac380705c398f94f9a00e598ddc794f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waitTime: 3
+  waitTime: 12
 --- !u!33 &1885664546661750185
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -16479,7 +16479,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eac380705c398f94f9a00e598ddc794f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waitTime: 5
+  waitTime: 15
 --- !u!33 &4173512937478501832
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -16691,7 +16691,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eac380705c398f94f9a00e598ddc794f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waitTime: 3
+  waitTime: 10
 --- !u!33 &4390162726784472966
 MeshFilter:
   m_ObjectHideFlags: 0

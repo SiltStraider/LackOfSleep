@@ -11,8 +11,97 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d090dc68-f802-41c2-8105-12f1ea193567" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/PluginYourGames/Editor/BuildLogYG2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PluginYourGames/Editor/BuildLogYG2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FiveNightsWithLabubu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FiveNightsWithLabubu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0_Source/Prefabs/Enemies/Enemy 3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0_Source/Prefabs/Enemies/Enemy 3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0_Source/Scripts/Game/VictoryChecker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0_Source/Scripts/Game/VictoryChecker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0_Source/Scripts/Player/PlayerSanity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0_Source/Scripts/Player/PlayerSanity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0_Source/_Scenes/Level_1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0_Source/_Scenes/Level_1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0_Source/_Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0_Source/_Scenes/Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/animatronic-che-citizen/textures/Image_0.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/animatronic-che-citizen/textures/Image_0.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/animatronic-che-citizen/textures/Image_1@channels=B.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/animatronic-che-citizen/textures/Image_1@channels=B.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/animatronic-che-citizen/textures/Image_1@channels=G.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/animatronic-che-citizen/textures/Image_1@channels=G.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/customizable-animatronics-fazbear/textures/CA_Body_AO.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/customizable-animatronics-fazbear/textures/CA_Body_AO.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/customizable-animatronics-fazbear/textures/CA_Body_BaseColor.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/customizable-animatronics-fazbear/textures/CA_Body_BaseColor.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/customizable-animatronics-fazbear/textures/CA_Body_DetailMask.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/customizable-animatronics-fazbear/textures/CA_Body_DetailMask.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/customizable-animatronics-fazbear/textures/CA_Body_Metallic.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/customizable-animatronics-fazbear/textures/CA_Body_Metallic.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/customizable-animatronics-fazbear/textures/CA_Body_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/customizable-animatronics-fazbear/textures/CA_Body_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/customizable-animatronics-fazbear/textures/CA_Body_Roughness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/customizable-animatronics-fazbear/textures/CA_Body_Roughness.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/Endo_D.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/Endo_D.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/Endo_N.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/Endo_N.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/TEX_ShatteredMonty_Main_BaseColor.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/TEX_ShatteredMonty_Main_BaseColor.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/TEX_ShatteredMonty_Main_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/TEX_ShatteredMonty_Main_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/TEX_ShatteredMonty_Main_OcclusionRoughness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/TEX_ShatteredMonty_Main_OcclusionRoughness.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/body_d.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/body_d.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/body_n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/body_n.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/eyeColor.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/eyeColor.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/wirebump.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Enemies/NewEnemies/vanny/textures/wirebump.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/Fan/textures/lambert10_AO.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/Fan/textures/lambert10_AO.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/Fan/textures/lambert10_albedo.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/Fan/textures/lambert10_albedo.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/Fan/textures/lambert10_albedo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/Fan/textures/lambert10_albedo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/Fan/textures/lambert10_metallic-removebg-preview (1).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/Fan/textures/lambert10_metallic-removebg-preview (1).png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/Fan/textures/lambert10_normal.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/Fan/textures/lambert10_normal.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/Fan/textures/lambert10_opacity.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/Fan/textures/lambert10_opacity.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/Fan/textures/lambert10_roughness.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/Fan/textures/lambert10_roughness.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/abstract-wall-art-set-game-ready-3d-models/textures/Paint_Diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/abstract-wall-art-set-game-ready-3d-models/textures/Paint_Diffuse.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/abstract-wall-art-set-game-ready-3d-models/textures/Paint_MetallicSmoothness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/abstract-wall-art-set-game-ready-3d-models/textures/Paint_MetallicSmoothness.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/abstract-wall-art-set-game-ready-3d-models/textures/Paint_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/abstract-wall-art-set-game-ready-3d-models/textures/Paint_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/adromischus-succulent-young/textures/internal_ground_ao_texture.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/adromischus-succulent-young/textures/internal_ground_ao_texture.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/adromischus-succulent-young/textures/piece2-cactus.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/adromischus-succulent-young/textures/piece2-cactus.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/adromischus-succulent-young/textures/piece2-cactus1.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/adromischus-succulent-young/textures/piece2-cactus1.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/adromischus-succulent-young/textures/piece2-cactus2.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/adromischus-succulent-young/textures/piece2-cactus2.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/airplance-wood-toy/textures/WoodToy3_AO.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/airplance-wood-toy/textures/WoodToy3_AO.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/airplance-wood-toy/textures/WoodToy3_albedo.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/airplance-wood-toy/textures/WoodToy3_albedo.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/airplance-wood-toy/textures/WoodToy3_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/airplance-wood-toy/textures/WoodToy3_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/airplance-wood-toy/textures/WoodToy3_roughness.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/airplance-wood-toy/textures/WoodToy3_roughness.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/Materials/plane.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/Materials/plane.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/Materials/plane_albedo.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/Materials/plane_albedo.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/basic_plane_model.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/basic_plane_model.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/plane.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/plane.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/plane_albedo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/plane_albedo.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/plane_ao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/plane_ao.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/plane_metal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/plane_metal.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/plane_roughness.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/source/Basic Plane/Basic Plane/plane_roughness.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/textures/plane_albedo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/textures/plane_albedo.jpeg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/textures/plane_ao.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/textures/plane_ao.jpeg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/textures/plane_metal.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/textures/plane_metal.jpeg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/textures/plane_roughness.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/basic-plane/textures/plane_roughness.jpeg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/stuffed-sheep-toy-low-poly/textures/Sheep_AO.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/stuffed-sheep-toy-low-poly/textures/Sheep_AO.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/stuffed-sheep-toy-low-poly/textures/Sheep_albedo.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/stuffed-sheep-toy-low-poly/textures/Sheep_albedo.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/stuffed-sheep-toy-low-poly/textures/Sheep_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/stuffed-sheep-toy-low-poly/textures/Sheep_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/stuffed-sheep-toy-low-poly/textures/Sheep_roughness.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/stuffed-sheep-toy-low-poly/textures/Sheep_roughness.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/teddybear-toy/textures/Material_AO.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/teddybear-toy/textures/Material_AO.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/teddybear-toy/textures/Material_albedo.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/teddybear-toy/textures/Material_albedo.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/teddybear-toy/textures/Material_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/teddybear-toy/textures/Material_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/teddybear-toy/textures/Material_roughness.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/teddybear-toy/textures/Material_roughness.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/toy_robot_animated_-_lowpoly.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/toy_robot_animated_-_lowpoly/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/toy_robot_animated_-_lowpoly/license.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/toy_robot_animated_-_lowpoly/scene.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/toy_robot_animated_-_lowpoly/scene.bin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/toy_robot_animated_-_lowpoly/scene.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/toy_robot_animated_-_lowpoly/scene.gltf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1_Modules/Level/Level_1/Model/wooden-toy-train.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WebGLTemplates/YandexGames/Images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WebGLTemplates/YandexGames/Images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WebGLTemplates/YandexGames/Images/logo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WebGLTemplates/YandexGames/Images/logo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +234,8 @@
       <workItem from="1787028269517" duration="3806000" />
       <workItem from="1787198477472" duration="6620000" />
       <workItem from="1787247358422" duration="3080000" />
+      <workItem from="1789105163783" duration="2136000" />
+      <workItem from="1789557356444" duration="1982000" />
     </task>
     <servers />
   </component>

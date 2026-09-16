@@ -15,6 +15,8 @@ public class PlayerSanity : MonoBehaviour
    
    private float _currentSanity = 1;
    private float _minSanity;
+   
+   public float CurrentSanity => _currentSanity;
 
    public static Action OnSanityDepleted;
 
