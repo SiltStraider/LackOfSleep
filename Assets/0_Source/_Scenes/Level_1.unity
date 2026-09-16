@@ -4514,7 +4514,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   baseLossRate: 0.001
-  extraLossPerActive: 0.0018
+  extraLossPerActive: 0.0017
   maxSanity: 1
   screamer: {fileID: 2088170515}
   sanityBar: {fileID: 217673242}
@@ -13008,7 +13008,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4637767018419938104, guid: 3c6a90208b02885479b2085f301c2572, type: 3}
       propertyPath: m_Intensity
-      value: 0.8
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 6351303298793831822, guid: 3c6a90208b02885479b2085f301c2572, type: 3}
       propertyPath: m_Name
@@ -16132,7 +16132,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4637767018419938104, guid: 3c6a90208b02885479b2085f301c2572, type: 3}
       propertyPath: m_Intensity
-      value: 0.8
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 6202310969607906572, guid: 3c6a90208b02885479b2085f301c2572, type: 3}
       propertyPath: m_TargetDisplay
@@ -16479,7 +16479,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eac380705c398f94f9a00e598ddc794f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waitTime: 15
+  waitTime: 18
 --- !u!33 &4173512937478501832
 MeshFilter:
   m_ObjectHideFlags: 0
